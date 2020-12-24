@@ -8,6 +8,6 @@
 		"default_icon": "icon.png"
 	},
 	"chrome_url_overrides": {
-		"newtab": "redirect.html"
+		"newtab": ["background.js"]
 	}
 }
